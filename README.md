@@ -12,3 +12,7 @@ Estudiante de 4to de secundaria - Proyecto escolar
 ## Estado actual del proyecto
 El proyecto se encuentra en desarrollo. Actualmente cuenta con el diseño de los primeros 3 niveles, la mecánica de movimiento del personaje y el sistema de puntos. Se planea agregar más niveles y efectos de sonido en versiones futuras.
 
+## Controles del juego
+- Flechas del teclado: mover al personaje
+- Barra espaciadora: saltar
+- Tecla E: interactuar con objetos
